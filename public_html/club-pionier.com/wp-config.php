@@ -26,7 +26,7 @@ define( 'DB_NAME', 'iyz3r_k3476s67' );
 define( 'DB_USER', 'iyz3r_k86k67bf' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'D;aJ56W578' );
+define( 'DB_PASSWORD', 'dongho-6' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'mysql78.conoha.ne.jp' );
